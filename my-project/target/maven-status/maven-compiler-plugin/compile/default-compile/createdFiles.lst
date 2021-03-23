@@ -1,0 +1,8 @@
+com\example\workflow\NoResponse.class
+com\example\workflow\WeatherOk.class
+com\example\workflow\WeatherNotOk.class
+com\example\workflow\GotResponse.class
+com\example\workflow\CheckWhetherDelegate.class
+com\example\workflow\User.class
+com\example\workflow\Application.class
+com\example\workflow\WeatherCheck.class
